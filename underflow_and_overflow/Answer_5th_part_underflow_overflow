@@ -1,0 +1,2 @@
+Python’s default int type does not overflow or underflow like C/C++ integers.
+they automatically grow in size to accommodate very large (or very small) numbers,limited only by available memory.
